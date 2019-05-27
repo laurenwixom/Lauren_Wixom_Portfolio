@@ -1,0 +1,91 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+h1{
+	margin:;
+	padding:20px;
+}
+
+h2{
+	margin-left:900px;
+	margin-top: -45px;
+	padding: -5px;
+
+}
+
+.block{
+	background-color: #732626;
+}
+
+
+
+
+
+
+
+body h3{
+	color:white;
+	background-color:grey;
+	margin: 10px 20px;
+
+}
+body #about{
+	background-color:white;
+	max-width: 300px;
+
+
+
+}
+
+#section1 img{
+	max-width: 10px;
+
+
+}
+
+#section2 img{
+	max-width:10px;
+}
+
+
+
+
+#main_content{
+	background-color:white;
+}
+#main_content img{
+	margin-left:20px;
+	max-width: 300px;
+	border-right:white;
+	border-left:white;
+	border-top: white;
+	border-bottom: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
